@@ -27,7 +27,7 @@ class LuciferMoringstar(object):
 
 🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
 
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {file_name}\n\n🔘Size {file_size}\n\n കൂടുതൽ സിനിമകൾക്കായി താഴെക്കാണുന്ന ലിങ്കിൽ ക്ലിക്ക് ചെയ്ത് ഗ്രൂപ്പിൽ ജോയിൻ ആവുക💯\n\n https://t.me/+IW7GXsCpKcUwMGY1"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**

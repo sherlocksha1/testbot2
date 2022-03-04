@@ -25,6 +25,11 @@
             "description": "Get this value from https://youtu.be/5eEsvLAKVc0 or @MT_MytelegramOrg_Bot",
             "value": ""
         },
+        "CUSTOM_FILE_CAPTION": {
+            "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
+            "value": "",
+            "required": false   
+        },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space. @MT_ID_Bot",
             "value": ""
